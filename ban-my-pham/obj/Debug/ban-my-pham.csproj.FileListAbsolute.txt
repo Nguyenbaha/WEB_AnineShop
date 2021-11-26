@@ -1,0 +1,21 @@
+E:\Fithou\Lap trinh web nang cao\BTL\btl-web-nc\ban-my-pham\ban-my-pham\bin\ban-my-pham.dll.config
+E:\Fithou\Lap trinh web nang cao\BTL\btl-web-nc\ban-my-pham\ban-my-pham\bin\ban-my-pham.dll
+E:\Fithou\Lap trinh web nang cao\BTL\btl-web-nc\ban-my-pham\ban-my-pham\bin\ban-my-pham.pdb
+E:\Fithou\Lap trinh web nang cao\BTL\btl-web-nc\ban-my-pham\ban-my-pham\obj\Debug\ban-my-pham.csprojAssemblyReference.cache
+E:\Fithou\Lap trinh web nang cao\BTL\btl-web-nc\ban-my-pham\ban-my-pham\obj\Debug\ban-my-pham.csproj.CoreCompileInputs.cache
+E:\Fithou\Lap trinh web nang cao\BTL\btl-web-nc\ban-my-pham\ban-my-pham\obj\Debug\ban-my-pham.dll
+E:\Fithou\Lap trinh web nang cao\BTL\btl-web-nc\ban-my-pham\ban-my-pham\obj\Debug\ban-my-pham.pdb
+E:\Fithou\Lap trinh web nang cao\luonleo\ban-my-pham\bin\ban-my-pham.dll.config
+E:\Fithou\Lap trinh web nang cao\luonleo\ban-my-pham\bin\ban-my-pham.dll
+E:\Fithou\Lap trinh web nang cao\luonleo\ban-my-pham\bin\ban-my-pham.pdb
+E:\Fithou\Lap trinh web nang cao\luonleo\ban-my-pham\obj\Debug\ban-my-pham.csprojAssemblyReference.cache
+E:\Fithou\Lap trinh web nang cao\luonleo\ban-my-pham\obj\Debug\ban-my-pham.csproj.CoreCompileInputs.cache
+E:\Fithou\Lap trinh web nang cao\luonleo\ban-my-pham\obj\Debug\ban-my-pham.dll
+E:\Fithou\Lap trinh web nang cao\luonleo\ban-my-pham\obj\Debug\ban-my-pham.pdb
+D:\WEB\BTL_WNC\luonleo\ban-my-pham\bin\ban-my-pham.dll.config
+D:\WEB\BTL_WNC\luonleo\ban-my-pham\bin\ban-my-pham.dll
+D:\WEB\BTL_WNC\luonleo\ban-my-pham\bin\ban-my-pham.pdb
+D:\WEB\BTL_WNC\luonleo\ban-my-pham\obj\Debug\ban-my-pham.csprojAssemblyReference.cache
+D:\WEB\BTL_WNC\luonleo\ban-my-pham\obj\Debug\ban-my-pham.csproj.CoreCompileInputs.cache
+D:\WEB\BTL_WNC\luonleo\ban-my-pham\obj\Debug\ban-my-pham.dll
+D:\WEB\BTL_WNC\luonleo\ban-my-pham\obj\Debug\ban-my-pham.pdb

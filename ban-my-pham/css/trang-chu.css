@@ -1,0 +1,36 @@
+﻿.banner {
+    width: 100%;
+}
+
+.banner img {
+    width: 100%;
+    height: 350px;
+    object-fit: cover;
+}
+
+.phantrang {
+    margin-top: 50px;
+    display: block;
+    text-align: center;
+}
+
+.phantrang span {
+    display: inline-block;
+    padding: 5px;
+    border: 1px solid #01608f;
+    border-radius: 5px;
+    background: #ff5959;
+    color: white;
+    font-weight: bold;
+    margin-left: 5px;
+}
+
+.phantrang a {
+    display: inline-block;
+    padding: 5px;
+    border: 1px solid #ff5959;
+    border-radius: 5px;
+    background: #ff5959;
+    color: white;
+    margin-left: 5px;
+}
